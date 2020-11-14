@@ -84,3 +84,4 @@ As you work on this assignment, you may find it helpful to track your progress a
 6. Double-check to make sure the output is formatted correctly - including spaces before and after variables and line spacing.
 7. Run and test your program.
 8. Debug and repeat step 7 as needed.
+
